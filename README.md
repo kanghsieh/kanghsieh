@@ -1,5 +1,5 @@
-<h1 align="center">Hi 👋, I'm Kang</h1>
-<h3 align="center">A software engineer with a background in aerospace engineering</h3>
+<h1 align="left">Hi 👋, I'm Kang</h1>
+<h3 align="left">A software engineer with a background in aerospace engineering</h3>
 
 - 🌱 I’m currently learning **node.js, next.js**
 
