@@ -3,7 +3,7 @@
 
 - 🔭 I’m currently working on:
    * [GymAlly](https://github.com/if-stella/GymAlly)
-   * [WorldXplorer](Link coming soon)
+   * [WorldXplorer](https://github.com/kanghsieh/worldxplorer)
 
 - 🌱 I’m currently learning **node.js, next.js**
 
