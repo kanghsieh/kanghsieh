@@ -5,7 +5,7 @@
    * [GymAlly](https://github.com/if-stella/GymAlly)
    * [WorldXplorer](https://github.com/kanghsieh/worldxplorer)
 
-- 🌱 I’m currently learning **MERN stack, next.js**
+- 🌱 I’m currently learning **express.js, react, node.js, next.js**
 
 - 💬 Ask me about **Ruby on Rails**, **Javascript**, **HTML**, **CSS**, **SQL**
 
