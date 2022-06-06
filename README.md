@@ -5,9 +5,9 @@
    * [GymAlly](https://github.com/if-stella/GymAlly)
    * [HelpLocal](https://github.com/gastighost/new-in-germany)
 
-- 🌱 I’m currently learning **react, node.js, next.js, mongoDB**
+- 🌱 I’m currently learning **node.js, mongoDB**
 
-- 💬 Ask me about **Ruby on Rails**, **Javascript**, **HTML**, **CSS**, **SQL**
+- 💬 Ask me about **Ruby on Rails**, **Javascript**, **Next.js**, **React**, **SQL**
 
 - ⚡ Fun fact **I am an airplane nerd ✈️**
 
