@@ -5,7 +5,7 @@
    * [GymAlly](https://github.com/if-stella/GymAlly)
    * [HelpLocal](https://github.com/gastighost/new-in-germany)
 
-- 🌱 I’m currently learning **Python, Django, mongoDB**
+- 🌱 I’m currently learning **Python, Django, mongoDB, jupyter notebooks**
 
 - 💬 Ask me about **Ruby on Rails**, **Javascript**, **Next.js**, **React**, **SQL**
 
