@@ -1,11 +1,11 @@
 <h1 align="left">Hi 👋, I'm Kang</h1>
-<h3 align="left">A software engineer with a background in aerospace engineering</h3>
+<h3 align="left">A business analyst & software engineer with a background in aerospace engineering</h3>
 
 - 🔭 I’m currently working on:
    * [GymAlly](https://github.com/if-stella/GymAlly)
    * [HelpLocal](https://github.com/gastighost/new-in-germany)
 
-- 🌱 I’m currently learning **Python, Django, mongoDB, jupyter notebooks**
+- 🌱 I’m currently learning **Python, Django, Pandas**
 
 - 💬 Ask me about **Ruby on Rails**, **Javascript**, **Next.js**, **React**, **SQL**
 
