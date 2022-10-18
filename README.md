@@ -5,9 +5,9 @@
    * [GymAlly](https://github.com/if-stella/GymAlly)
    * [HelpLocal](https://github.com/gastighost/new-in-germany)
 
-- 🌱 I’m currently learning **Python, Django, Pandas**
+- 🌱 I’m currently learning **Numpy, Pandas, Django**
 
-- 💬 Ask me about **Ruby on Rails**, **Javascript**, **Next.js**, **React**, **SQL**
+- 💬 Ask me about **Ruby on Rails**, **Javascript**, **Next.js**, **React**, **SQL**, **Python**
 
 - ⚡ Fun fact **I am an airplane nerd ✈️**
 
